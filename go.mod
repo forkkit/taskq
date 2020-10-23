@@ -16,10 +16,9 @@ require (
 	github.com/onsi/ginkgo v1.14.1
 	github.com/onsi/gomega v1.10.2
 	github.com/satori/go.uuid v1.2.0
-	github.com/vmihailenco/msgpack/v5 v5.0.0-beta.1
-	github.com/vmihailenco/tagparser v0.1.2 // indirect
+	github.com/vmihailenco/msgpack/v5 v5.0.0-beta.4
 	go.opentelemetry.io/otel v0.13.0
-	golang.org/x/net v0.0.0-20201009032441-dbdefad45b89 // indirect
-	google.golang.org/appengine v1.6.6 // indirect
-	google.golang.org/protobuf v1.25.0 // indirect
+	golang.org/x/mod v0.3.1-0.20200828183125-ce943fd02449 // indirect
+	golang.org/x/tools v0.0.0-20200207183749-b753a1ba74fa // indirect
+	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 )
